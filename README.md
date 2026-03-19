@@ -1,5 +1,5 @@
 - 👀 I'm interested in making a difference
-- 🌱 I'm currently learning new web languages and python
+- 🌱 I'm currently learning IA and python
 - 💞️ I'm looking to collaborate with those who believe in my potential
 - 📫 How to reach me via email shellenorteney@gmail.com
 
